@@ -1,19 +1,21 @@
-# “一周一算法”代码汇总
+#一周一算法
 
-##[Week1 Dynamic Programming](https://github.com/ia-cas/leetcode/wiki/week1-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
+--------------
 
-##Week2 Greedy
+1.[Week1 Dynamic Programming](https://github.com/ia-cas/leetcode/wiki/week1-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 
-##Week3 Sort
+2.[Week2 Greedy](https://github.com/ia-cas/leetcode/wiki/week2-%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
 
-##Week4 Tree
+3.Week3 Sort
 
-##Week5 Binary Search Trees 
+4.Week4 Tree
 
-##Week6 Balanced Search Trees
+5.Week5 Binary Search Trees 
 
-##Week7 minimum Spanning Trees
+6.Week6 Balanced Search Trees
 
-##Week8 Shortest Paths
+7.Week7 minimum Spanning Trees
 
-##Week9 Strings
+8.Week8 Shortest Paths
+
+9.Week9 Strings
