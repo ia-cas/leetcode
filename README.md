@@ -10,6 +10,6 @@
 
 4.[Week4 Tree](https://github.com/ia-cas/leetcode/wiki/Week4-%E6%A0%91%EF%BC%88by-%E6%96%BD%E4%BC%9F%EF%BC%89)
 
-5.Week8 Shortest Paths
+5.Week5 Shortest Paths
 
-6.Week9 Strings
+6.Week6 Strings
